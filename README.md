@@ -1,4 +1,4 @@
-================================================================================
+
 Data Cleaning Pipeline
 ================================================================================
 This project implements a structured data cleaning process for a large real-world dataset.
